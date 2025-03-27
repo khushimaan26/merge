@@ -1,3 +1,3 @@
  #this is repo
-changes made in conflict-branch 
+changes made in main branch 
 
